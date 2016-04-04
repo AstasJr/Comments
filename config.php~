@@ -1,0 +1,6 @@
+<?php 
+	define("DB_HOST", "localhost");
+	define("DB_USERNAME", "astas");
+	define("DB_PASSWORD", "19959868Cc");
+	define("DB_NAME", "hotels");
+ ?>
